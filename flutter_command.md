@@ -539,6 +539,12 @@ flutter build apk --release
 
 ⭐ **Found this helpful? Star the repo and share it with fellow learners!** ⭐
 
+---
+
+### 👨‍💻 Created by [deekshithreddykh](https://deekshithreddykh.vercel.app)
+
+
+
 *Happy Fluttering! 🦋*
 
 </div>
